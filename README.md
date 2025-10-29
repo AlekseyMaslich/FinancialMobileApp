@@ -1,6 +1,3 @@
-# BudgetFlowApplication
-BudgetFlow is an intelligent personal finance management app designed for freelancers, young professionals, and families. It offers smart budgeting tools, intuitive UI, flexible income tracking, shared expenses, and personalized financial insights – all in one cross-platform mobile app.
-
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
